@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Pipelines and Cloud Technologies<br>🌱 I’m currently learning about Cloud Technologies<br>⚡ Fun fact is nothing but graph colouring problem
+🔭 I’m currently working on Gen AI and Cloud Technologies<br>🌱 I’m currently learning about Cloud Technologies<br>⚡ Fun fact is nothing but graph colouring problem
 
 
 ## 🌐 Socials:
